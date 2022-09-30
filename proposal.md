@@ -1,6 +1,6 @@
 Capstone 2: Project Proposal
 
-###TripCards
+### TripCards
 
 What tech stack will you use for your final project? We recommend that you use React and Node for this project, however if you are extremely interested in becoming a Python developer you are welcome to use Python/Flask for this project.
 
